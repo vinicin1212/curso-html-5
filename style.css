@@ -41,7 +41,7 @@ h1{
 
 /*ids*/
 #principal{
-	background-image:url(https://images.pexels.com/photos/588843/pexels-photo-588843.jpeg?cs=srgb&dl=carbono-guitarra-eletrica-instrumento-588843.jpg&fm=jpg);
+	background-image:url(file:///Users/samuel/Downloads/carbono-guitarra-eletrica-instrumento-588843.jpg);
 	background-size: 100%;
 	min-height: 600px;
 	padding: 50;
