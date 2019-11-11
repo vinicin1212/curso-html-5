@@ -41,7 +41,7 @@ h1{
 
 /*ids*/
 #principal{
-	background-image: url("https://lh3.googleusercontent.com/R19tzAq-Fcw60Sn8en5YXeSsh21HgZb9HOrDBSG82CuewVHaF5pvjYDjxvfQLROSMGpR=s128");
+	background-image:url https://lh3.googleusercontent.com/R19tzAq-Fcw60Sn8en5YXeSsh21HgZb9HOrDBSG82CuewVHaF5pvjYDjxvfQLROSMGpR=s128;
 	background-size: 100%;
 	min-height: 600px;
 	padding: 50;
