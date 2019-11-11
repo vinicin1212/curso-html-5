@@ -41,7 +41,7 @@ h1{
 
 /*ids*/
 #principal{
-	background-image:url https://images.pexels.com/photos/229034/pexels-photo-229034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;
+	background-image:url (https://images.pexels.com/photos/229034/pexels-photo-229034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-size: 100%;
 	min-height: 600px;
 	padding: 50;
