@@ -4,6 +4,7 @@ p{
 
 	color: white;
 	font-family:Helvetica,Arial;
+	text-shadow: 1px 1px 1px #111111;
  }
 
 
@@ -27,6 +28,8 @@ footer{
      clear: both;
 	background-color: #35b8b0;
 	height:80px;
+	text-shadow: 1px 1px 1px #111111;
+        font-size: 12px;
 	text-align: center;
 	padding: 10px;
 }   
@@ -34,6 +37,7 @@ footer{
 h1{
    color: white;
    text-align: center;
+   text-shadow: 1px 1px 1px #111111;
    margin: 0 0 50px 0 ;
    
 }
@@ -41,13 +45,38 @@ h1{
 
 /*ids*/
 #principal{
-	background-image:url("https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_Hot_Chili_Peppers_Squier_Stratocaster_guitar%2C_Hard_Rock_Cafe_Cairo.jpg");
+	background-image:url("https://lh3.googleusercontent.com/LRiygVA7P1qyTdwuluf8JHrLQfwvR3hhzb3UzaFzVThE84Vnrc7Phk9C_TksFvWz70IaxA=s128");
 	background-size: 100%;
 	min-height: 500px;
 	padding: 50;
+	clear:both;
 	
 }
 
+
+#logo{
+	float: left;
+}
+
+
+#menu{
+     
+	float:right;
+    margin-top:30px;
+
+}
+
+#menu a{
+	text-decoration: none;
+	color:#111;
+	padding:10px;
+
+}
+#menu a:hover{
+
+	background-color:#00796B ;
+	color:#111 ;
+}
 
 /* class */
 
@@ -56,4 +85,7 @@ h1{
 	margin: 0 auto;
 }
 
+.efeito{
+	background-color:rgba(0,0,0,0.5);
+}
 
