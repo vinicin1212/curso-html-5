@@ -18,7 +18,7 @@ p{
 
 
 header{
-	background-color: #35b8b0;
+	background-color:#B0BEC5;
 	min-height: 80px;
 	padding: 20px;
 }
@@ -26,7 +26,7 @@ header{
 
 footer{
      clear: both;
-	background-color: #35b8b0;
+	background-color: #B0BEC5;
 	height:80px;
         font-size: 12px;
 	text-align: center;
@@ -73,7 +73,7 @@ h1{
 }
 #menu a:hover{
 
-	background-color:#00796B ;
+	background-color:#B0BEC5 ;
 	color:#111 ;
 }
 
