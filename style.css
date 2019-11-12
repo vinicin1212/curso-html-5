@@ -28,7 +28,6 @@ footer{
      clear: both;
 	background-color: #35b8b0;
 	height:80px;
-	text-shadow: 1px 1px 1px #111111;
         font-size: 12px;
 	text-align: center;
 	padding: 10px;
@@ -45,9 +44,9 @@ h1{
 
 /*ids*/
 #principal{
-	background-image:url("https://lh3.googleusercontent.com/LRiygVA7P1qyTdwuluf8JHrLQfwvR3hhzb3UzaFzVThE84Vnrc7Phk9C_TksFvWz70IaxA=s128");
+	background-image:url("https://lh3.googleusercontent.com/GVGrJCrYGJWJV2HgIPQV7okADDvrUD46hHT_rxY5NdVx3wqBlgrrqEemr1Y-y1l2lT8A=s128");
 	background-size: 100%;
-	min-height: 600px;
+	min-height: 500px;
 	padding: 50;
 	clear:both;
 	
